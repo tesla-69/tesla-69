@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tesla69)
 ![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=tesla69)
   
-</div>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikshah369&" alt="kartikshah369" /></p>
+
+</div>
