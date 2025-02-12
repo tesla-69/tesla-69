@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 🐦 Coding Stats:
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=tesla.69)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tesla69)
-![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=tesla69)
+
   
 
 
