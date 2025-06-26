@@ -10,17 +10,9 @@
 ---
 
 ## 🚀 About Me
-Final year Computer Science student at NIT Bhopal. Passionate full-stack developer with a focus on building intuitive and scalable web apps. I love tackling algorithmic challenges and constantly learning new tools and frameworks to enhance my skillset.
+Final year Computer Science student at NIT Bhopal. Passionate full-stack developer with a focus on building intuitive and scalable web applications. I enjoy solving algorithmic challenges and continuously learning new tools and frameworks.
 
----
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/kartik shah" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Kartik Shah" width="30" height="30"/>
-  </a>
-</p>
+📌 LinkedIn: [linkedin.com/in/kartik shah](https://linkedin.com/in/kartik shah)
 
 ---
 
@@ -69,15 +61,7 @@ Final year Computer Science student at NIT Bhopal. Passionate full-stack develop
       <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tesla.69" width="275" />
     </td>
     <td>
-      <img src="https://komarev.com/ghpvc/?username=kartikshah369&label=Profile%20views&color=0e75b6&style=flat" width="120"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tesla-69&theme=default" width="275" />
     </td>
   </tr>
 </table>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tesla-69&theme=default" alt="GitHub Streak - Kartik Shah" />
-</p>
