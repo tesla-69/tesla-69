@@ -12,7 +12,7 @@
 ## 🚀 About Me
 Final year Computer Science student at NIT Bhopal. Passionate full-stack developer with a focus on building intuitive and scalable web applications. I enjoy solving algorithmic challenges and continuously learning new tools and frameworks.
 
-📌 LinkedIn: [linkedin.com/in/kartik shah](https://linkedin.com/in/kartik shah)
+📌 LinkedIn: [linkedin.com/in/kartik shah](https://linkedin.com/in/kartik-shah-profile)
 
 ---
 
